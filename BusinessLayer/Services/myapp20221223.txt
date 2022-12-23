@@ -1,0 +1,6 @@
+2022-12-23 14:12:53.057 -05:00 [ERR] ERROR HEPPEND CompanyController.Post(    {
+        "CompanyName": "name",
+        "AddressLine1": "add1",
+        "AddressLine2": "add2"
+    }): ERR:System.Exception: testttt
+   at WebApi.Controllers.CompanyController.<Post>d__5.MoveNext() in D:\Jonas\1\WebApi\Controllers\CompanyController.cs:line 49
